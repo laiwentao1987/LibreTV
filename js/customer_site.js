@@ -9,11 +9,13 @@ const CUSTOMER_SITES = {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: 'TV-电影天堂',
     }
+ };       
 const CUSTOMER_SITES = {
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     }
+ };       
 const CUSTOMER_SITES = {
     souavzy: {
         api: 'https://api.souavzy.vip/api.php/provide/vod',
