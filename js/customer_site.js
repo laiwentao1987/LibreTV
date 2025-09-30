@@ -1,9 +1,23 @@
 const CUSTOMER_SITES = {
     dyttzy: {
-        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8',
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂',
     }
-    
+  const CUSTOMER_SITES = {
+    dyttzy: {
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂',
+    }
+    const CUSTOMER_SITES = {
+    dyttzy: {
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂',
+    }
+    const CUSTOMER_SITES = {
+    dyttzy: {
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂',
+    }
  };       
 
 
